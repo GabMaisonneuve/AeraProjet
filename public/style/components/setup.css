@@ -1,0 +1,6 @@
+/* Fichier css contant les changements de bases de la page. Comme * margin: 0 ou les ajustement pour etre adapte a tous les navigateurs */
+
+* {
+  margin: 0;
+  padding: 0;
+}

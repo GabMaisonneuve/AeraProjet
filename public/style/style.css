@@ -1,0 +1,10 @@
+@import "components/setup.css";
+@import "components/font.css";
+
+@import "components/nav.css";
+@import "components/footer.css";
+
+@import "components/catalogue.css";
+@import "components/article.css";
+@import "components/canva.css";
+@import "components/carte.css";
